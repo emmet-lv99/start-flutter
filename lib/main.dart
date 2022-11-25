@@ -1,5 +1,3 @@
-// emulator 실행 후 런 ㅜㅜㅜㅜㅜ
-
 import 'package:flutter/material.dart';
 
 void main() {
